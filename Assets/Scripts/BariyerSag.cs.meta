@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 11a7076c64844c74fafd1b66c7c9df66
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bariyerPrefab: {fileID: 404739043180936882, guid: 3ad4558edad819646917d945ae84df8e, type: 3}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

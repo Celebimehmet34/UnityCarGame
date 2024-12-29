@@ -1,0 +1,40 @@
+# Unity Project Specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity VSCode
+.vscode/
+
+# Asset Meta
+*.meta
+
+# Crashlytics
+crashlytics-build.properties
+
+# Unity Cloud Build
+*.apk
+*.unitypackage
+
+# Visual Studio
+.vs/
+*.csproj
+*.pidb
+*.suo
+*.user
+*.unityproj
+*.userprefs
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Other
+*.log
